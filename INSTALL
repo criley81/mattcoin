@@ -1,0 +1,9 @@
+Building Mattcoin
+
+See doc/readme-qt.rst for instructions on building Mattcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mattcoin.
+
+See doc/build-*.txt for instructions on building mattcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mattcoin.
